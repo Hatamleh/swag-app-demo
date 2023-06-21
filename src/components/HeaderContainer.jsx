@@ -50,7 +50,7 @@ const HeaderContainer = ({
 					<DrawerMenu />
 				</div>
 				<div className="header_label">
-					<div className="app_logo">QAcart Shop</div>
+					<div className="app_logo">Swag Labs</div>
 				</div>
 				<div id="shopping_cart_container" className="shopping_cart_container">
 					<CartButton />

@@ -70,7 +70,7 @@ function Login(props) {
 
 	return (
 		<div className="login_container">
-			<div className="login_logo">QAcart Shop!</div>
+			<div className="login_logo">Swag Labs</div>
 
 			<div className="login_wrapper">
 				<div className="login_wrapper-inner">
